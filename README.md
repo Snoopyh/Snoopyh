@@ -1,6 +1,6 @@
 ### Ola!! Eu Sou Snoopyh 👋
 
-- 🔭 Estou a procura de trabalho Front-end
+- 🔭 Estou em busca da minha primeira vaga como Dev Junior!
 - 🌱 Estudando ReactJS , GraphQL 
 - 📫 Contatos : ismaelxd500@gmail.com / +55 (86)995412070 / @_ismaelGustavo
 
