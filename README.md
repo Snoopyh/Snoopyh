@@ -16,7 +16,7 @@
 
 <div style="display: inline_block"><br>
   https://www.svgrepo.com/show/43101/java.svg
-  <img align="center" alt="Snoopyh-JAVA" height="30" width="40" src="https://www.svgrepo.com/show/43101/java.svg">
+  <img align="center" alt="Snoopyh-JAVA" height="30" width="40" src="https://www.svgrepo.com/show/184143/java.svg">
   <img align="center" alt="Snoopyh-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Snoopyh-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Snoopyh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
